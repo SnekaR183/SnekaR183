@@ -1,0 +1,4 @@
+console.log("hekkow world");
+console.log("this is guvi geek");
+this is a code structure
+this is a github learning session
